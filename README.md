@@ -1,4 +1,4 @@
-A sample test framework to showcase simple ui tests for an iOS SPM framework.
+A Sample Test Framework to showcase simple UI Tests for a iOS SPM framework.
 
 It has a minimalistic design: 
 - one screen
