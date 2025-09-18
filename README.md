@@ -1,4 +1,5 @@
-A Sample Test Framework to showcase simple UI Tests for a iOS SPM framework.
+A Sample Test Framework to showcase simple UI Tests for a iOS SPM framework in the article:
+https://medium.com/@alisha.latash/ui-testing-swift-packages-with-a-runner-app-a6bafd78abcd
 
 It has few key building blocks:
 - Package manifest that defines the dependencies.
