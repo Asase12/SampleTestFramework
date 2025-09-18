@@ -1,14 +1,11 @@
-//
-//  File.swift
-//  SampleTestFramework
-//
-//  Created by Angelina Latash on 10.09.25.
+// MIT License — Educational sample script
+// Created by Angelina Latash on 10.09.25. for demonstration purposes only.
 //
 
 import XCTest
 import TestSources
 
-final class SampleViewUITests: UIBaseTest {
+final class SampleViewUITests: UITestCaseBase {
     
     private var page: SampleViewPage!
     
@@ -28,7 +25,7 @@ final class SampleViewUITests: UIBaseTest {
     func test_SampleView_screen() {
         XCTAssertTrue(
             page.screen
-                .waitForExistence(timeout: timeout)
+                .waitForExistence(timeout: defaultTimeout)
         )
         
         XCTAssertEqual(page.text.label, "Hello, World!")

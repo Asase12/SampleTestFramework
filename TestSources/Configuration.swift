@@ -1,8 +1,7 @@
+// MIT License — Educational sample script
+// Created for demonstration purposes only.
 //
-//  File.swift
-//  SampleTestFramework
-//
-//  Created by Angelina Latash on 17.09.25.
+//  Created by Angelina Latash on 10.09.25.
 //
 
 import Foundation

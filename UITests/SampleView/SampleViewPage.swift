@@ -1,8 +1,5 @@
-//
-//  File.swift
-//  SampleTestFramework
-//
-//  Created by Angelina Latash on 10.09.25.
+// MIT License — Educational sample script
+// Created by Angelina Latash on 10.09.25. for demonstration purposes only.
 //
 
 import XCTest
